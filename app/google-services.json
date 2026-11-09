@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "319973732287",
+        "project_id": "dbs-amguri-push",
+        "storage_bucket": "dbs-amguri-push.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:319973732287:android:377d343e38727fe8487b0a",
+                "android_client_info": {
+                    "package_name": "com.dbsamguri.school"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyAKJQJ4cY1WVW1rqNbIKRIHCf-IOhqofbk"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
